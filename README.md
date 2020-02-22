@@ -54,3 +54,4 @@ module "bastion" {
 * `public_ip` - bastion public IP
 * `private_ip` - bastion internal IP
 * `instance_id` - EC2 instance ID
+* `security_group_id` - Security Group ID
